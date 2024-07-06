@@ -1,6 +1,6 @@
 # Machine Learning-Based Prediction of Large-for-Gestational Age Infants in Motherswith Gestational Diabetes Mellitus
 
-Code, and trained models for "Machine Learning-Based Prediction of Large-for-Gestational Age Infants in Motherswith Gestational Diabetes Mellitus"
+Code, and trained models for "Machine Learning-Based Prediction of Large-for-Gestational Age Infants in Motherswith Gestational Diabetes Mellitus".
 
 ## Getting Started
 
@@ -31,7 +31,7 @@ cd LGAinGDM
 The code base structure is explained below:
 - **main_fusion.py:** Script for training fusion model based on CGM and clinical data. 
 - **main_clinical.py:** Script for training MLP-based model based on clinical data. 
-- **main_CGM.py:** Script for training fusion model based on CGM  data. 
+- **main_CGM.py:** Script for training CNN-based model based on CGM  data. 
 - **test.py:** You can use this script to test the model after training.
 
 ### 4. Training

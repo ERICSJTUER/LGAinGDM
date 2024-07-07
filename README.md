@@ -1,4 +1,4 @@
-# Machine Learning-Based Prediction of Large-for-Gestational Age Infants in Motherswith Gestational Diabetes Mellitus
+# Machine Learning-Based Prediction of Large-for-Gestational Age Infants in Mothers with Gestational Diabetes Mellitus
 
 Code, and trained models for "Machine Learning-Based Prediction of Large-for-Gestational Age Infants in Motherswith Gestational Diabetes Mellitus".
 
